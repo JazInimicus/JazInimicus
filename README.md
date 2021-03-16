@@ -1,4 +1,4 @@
-#Hello there!
+# Hello there!
 
 I'm Jaz, a 22 year old programmer from Germany. Currently I am studying Business Informatics at "FH Aachen University of applied science".
 I studied two semesters of computer science before hand but decided to switch to business informatics since I find it a tad more interesting.
